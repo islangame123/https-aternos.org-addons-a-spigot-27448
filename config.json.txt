@@ -1,0 +1,6 @@
+{
+	"ip":"islangamereal.aternos.me",
+	"port": "42018",
+	"name": "afkbot1",
+	"auto-night-skip":"true"
+}
